@@ -14,7 +14,7 @@ We are a group of passionate Victorian bitcoin enthusiasts who have recently inc
 
 ***
 
-## What can you do?
+## Get Involed?
 
 If you'd like to know more, please contact us at:
 - email: info@vbtc.org.au
