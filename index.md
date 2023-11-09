@@ -5,16 +5,19 @@
 layout: default
 ---
 
-# Soon
+# Coming Soon: Victorian Bitcoin Technology Club
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+## What's vBTC?
 
-## What's in it?
-
-Soon is a single static page with a full-screen image, nothing more. Remember those *under construction* sites? The point is to show a quick message or a temporary contact page to your visitors. Use this template for a few hours to a few days while you are building your site in the background. Since the page comes with a Jekyll environment, you can host it for free on GitHub.
+We are a group of passionate Victorian bitcoin enthusiasts who have recently incorporated this club in order to grow the local bitcoin community and advance awareness and education. This page is a placeholder and we will be publishing a website as soon as we mobilise.
 
 ***
 
-## Get started
+## What can you do?
 
-[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).
+If you'd like to know more, please contact us at:
+- email: info@vbtc.org.au
+- nostr pubkey: 
+
+Victorian Bitcoin Technology Club Inc. 
+This 'coming soon' style page was created using the [_Soon_](https://github.com/YJPL/soon/) jekyll template.
