@@ -33,7 +33,7 @@ body {
 	min-height: 50%;
 	}
 	
-#container {
+#container, .page-container {
 	margin: 20px auto;
 	max-width: 600px;
 	width: 60%;
