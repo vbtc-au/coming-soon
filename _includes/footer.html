@@ -7,17 +7,7 @@
     <div class="footer">
 
         <h3 class="contact-list">
-<li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% endif %}
 
-</li>
-<li>
-            {% if site.phone %}
-            Call {{ site.phone | escape }}
-            {% endif %}
-            </li>
 <li>
             {% if site.email %}
             email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
