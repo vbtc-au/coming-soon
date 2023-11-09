@@ -14,8 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Victorian Bitcoin Technology Club
-email: inquiry@vbtc.org.au
-phone: 0458238457
+email: info@vbtc.org.au
+# Best to keep phone number blank. We don't want that floating around.
+phone: 
 description: Welcome to the Victorian Bitcoin Technology Club. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vbtc.org.au" # the base hostname & protocol for your site, e.g. http://example.com
