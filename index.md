@@ -6,19 +6,8 @@ layout: default
 date: 2023-11-09
 ---
 
-# Coming Soon: Victorian Bitcoin Technology Club
+# Victorian Bitcoin Technology Club
 
 ## What's vBTC?
 
 We are a group of passionate Victorian bitcoin enthusiasts who have recently incorporated as a not-for-profit association. The purpose of the club is to grow the local bitcoin community and advance awareness and education. This page is a placeholder and we will be publishing a website as soon as we mobilise.
-
-***
-
-## Get Involed?
-
-If you'd like to know more, please contact us at:
-- email: info@vbtc.org.au
-- nostr pubkey: 
-
-Victorian Bitcoin Technology Club Inc. 
-This 'coming soon' style page was created using the [_Soon_](https://github.com/YJPL/soon/) jekyll template.
